@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  max-width: 100%;
+}
+
+body{
+	max-width: 100%;
+}
+
+header{
+	background-color:#4B5320;
+	background-position:absolute; 
+	background-size: contain; 
+	box-shadow: inset 0 0 0 100vw rgba(0,0,0,0.3); 
+	width: 100%;
+}
+
+#download{
+	max-width: 20%;
+}
+
+ .fishes
+    {
+      position: relative;
+      top: 11%;
+      left: 6%;
+    }
+    .fish
+    {
+      position: absolute;
+      top: 22%;
+      left: 12%;
